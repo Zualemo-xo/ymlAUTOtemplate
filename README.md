@@ -1,0 +1,2 @@
+# ymlAUTOtemplate
+  - "*"   - "C/*.c"
