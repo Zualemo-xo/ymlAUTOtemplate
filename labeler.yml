@@ -1,0 +1,29 @@
+hacktoberfest-accepted:
+  - "*"
+  - "C/*.c"
+  - "CPP/*.cpp"
+  - "Python/*.py"
+cpp:
+  - "**/*.cpp"
+  - "*.cpp"
+c:
+  - "**/*.c"
+  - "*.c"
+java:
+  - "**/*.java"
+  - "*.java"
+
+
+🐍 python:
+  - "**/*.py"
+  - "*.py" 
+
+📝 documentation:
+  - "**/*.md"
+  - "*.md"
+
+🐳 docker:
+  - "Dockerfile"
+
+⚙ ci:
+  - ".github/**"
